@@ -1,0 +1,5 @@
+li { list-style-type: none;}
+#poster {display: none;}
+@media screen and (min-width: 766px) {
+    #poster { display: block}
+}
